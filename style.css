@@ -1,0 +1,21 @@
+.primary{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: x-large;
+color: crimson;
+background-color: black;
+}
+.style{
+    font-family: cursive;
+    color:darkblue;
+}
+button{
+    padding-right: 2px;
+    color: blue;
+    background: #000;
+    margin: 2%;
+}
+.button{
+    padding-right: 2px;
+    color: blue;
+    background: #000;
+}
